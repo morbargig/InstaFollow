@@ -6,6 +6,7 @@ from personal_reason import __my_project
 print(__my_project)
 ```
 ```powershell
+mor bargig@mor-bargig MINGW64 /c/My Projects/Instafollow (master)
 private project 
 ```
 
