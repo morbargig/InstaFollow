@@ -7,6 +7,7 @@ print(__my_project)
 ```
 ```bash
 mor bargig@mor-bargig MINGW64 /c/My Projects/Instafollow (master)
+$ py Insafollow.py
 private project 
 ```
 
