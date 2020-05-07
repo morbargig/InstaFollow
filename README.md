@@ -25,7 +25,7 @@ this code is private although I was truly love to sure it with you
     - [X] Unfollow user that don't follow me back
     - [X] Find user blocked me and send me a massage with the blockers linkes 🔗
     - [ ] Automatic respon to follows, likes,comments, messages, and notification 
-    - [X] Collecting all users available data (email, phone number,Facebook, SnapChat, Tiktok, name, city, catgory of busines account, etc.)     
+    - [X] Collecting all users available data (email, phone number,Facebook, SnapChat, Tiktok, city, catgory of busines account, etc.)     
     - [X] Collecting last notification about follows, likes,comments, messages
     
     
