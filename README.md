@@ -16,17 +16,17 @@ this code is private although I was truly love to sure it with you
 ## Goals :    
 - 07/05/2020
     - [X] Vpn used 
+    - [ ] Credit card payment
     - [X] Send direct messages 
-    - [X] Unfollow user that don't follow me back
+    - [ ] Design App for self use 
     - [X] Get posts by location and hashtags 
+    - [ ] Target Audience by Machine Learning 🎯 
     - [X] Follow like and comment users posts 
+    - [X] Unfollow user that don't follow me back
     - [X] Find user blocked me and send me a massage with the blockers linkes 🔗
+    - [ ] Automatic respon to follows, likes,comments, messages, and notification 
     - [X] Collecting all users available data (email, phone number,Facebook, SnapChat, Tiktok, name, city, catgory of busines account, etc.)     
     - [X] Collecting last notification about follows, likes,comments, messages
-    - [ ] Credit card payment
-    - [ ] Design App for self use 
-    - [ ] Target Audience by Machine Learning 🎯 
-    - [ ] Automatic respon to follows, likes,comments, messages, and notification  
     
     
 
