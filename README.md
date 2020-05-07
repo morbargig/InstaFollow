@@ -1,6 +1,6 @@
 # InstaFollow
 
-![alt text](https://raw.githubusercontent.com/morbargig/InstaFollow/blob/master/photos/Screenshot(68).png)
+![alt text](https://raw.githubusercontent.com/morbargig/InstaFollow/master/photos/Screenshot(68).png)
 
 sdlkmsdl
 
