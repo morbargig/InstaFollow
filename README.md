@@ -2,7 +2,7 @@
 
 vdvfd 
 
-![alt text](https://raw.githubusercontent.com/morbargig/InstaFollow/master/photos/Screenshot(68).png)
+![alt text](https://raw.githubusercontent.com/morbargig/InstaFollow/master/photos/Screenshot%20(68).png)
 
 sdlkmsdl
 
