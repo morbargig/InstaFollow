@@ -2,7 +2,7 @@
 
 Instagram bot for self use
 ```python
-__my_project = private project 
+__my_project = 'private project' 
 ```
 
 this code is private although I was truly love to sure it with you
