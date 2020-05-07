@@ -1,8 +1,11 @@
 # InstaFollow
 
 Instagram bot for self use
+```python
+__my_project = private project 
+```
 
-pyhton project this code is private although I was truly love to sure it with you
+this code is private although I was truly love to sure it with you
 
 ## Goals :    
 - 07/05/2020
