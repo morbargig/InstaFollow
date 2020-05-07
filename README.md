@@ -1,6 +1,7 @@
 # InstaFollow
 
-Instagram bot
+Instagram bot for self use
+pyhton project this code is private although I was truly love to sure it with you
 
 ## Goals :    
 - 07/05/2020
