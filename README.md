@@ -2,7 +2,11 @@
 
 Instagram bot for self use
 ```python
-__my_project = 'private project' 
+from personal_reason import __my_project
+print(__my_project)
+```
+```powershell
+private project 
 ```
 
 this code is private although I was truly love to sure it with you
