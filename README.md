@@ -1,12 +1,8 @@
 # InstaFollow
 
-vdvfd 
-
 ![alt text](https://raw.githubusercontent.com/morbargig/InstaFollow/master/photos/Screenshot%20(68).png)
 
-sdlkmsdl
-
-![alt text](https://raw.githubusercontent.com/morbargig/InstaFollow/photos/Screenshot(70).png)
+![alt text](https://raw.githubusercontent.com/morbargig/InstaFollow/photos/Screenshot%20(70).png)
 
 ![alt text](https://raw.githubusercontent.com/morbargig/InstaFollow/photos/Screenshot(71).png)
 
