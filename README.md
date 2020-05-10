@@ -24,8 +24,8 @@ this code is private although I was truly love to sure it with you
     - [ ] Target Audience by Machine Learning 🎯 
     - [X] Unfollow user that don't follow me back
     - [X] Collecting last notification about follows, likes,comments, messages
-    - [X] Find user blocked me and send me a massage with the blockers linkes 🔗
     - [ ] Automatic respon to follows, likes,comments, messages, and notification 
+    - [X] Find users who blocked me and send me a message with the blockers linkes 🔗
     - [X] Collecting all users available data (email, phone number,Facebook, SnapChat, Tiktok, city, catgory of busines account, etc.)     
 
 ![alt text](https://raw.githubusercontent.com/morbargig/InstaFollow/master/photos/Screenshot%20(68).png)
