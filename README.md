@@ -19,7 +19,7 @@ this code is private although I was truly love to sure it with you
     - [ ] Credit card payment
     - [X] Send direct messages
     - [ ] Design App for self use 
-    - [X] connect to Mongodibi Data Base
+    - [X] connect to MongoDB Database
     - [X] Get posts by location and hashtags 
     - [X] Follow like and comment users posts 
     - [ ] Target Audience by Machine Learning 🎯 
