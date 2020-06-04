@@ -10,6 +10,7 @@ mor bargig@mor-bargig MINGW64 /c/My Projects/Instafollow (master)
 $ py Insafollow.py
 private project 
 ```
+leaf 
 
 this code is private although I was truly love to sure it with you
 
@@ -19,7 +20,7 @@ this code is private although I was truly love to sure it with you
     - [ ] Credit card payment
     - [X] Send direct messages
     - [ ] Design App for self use 
-    - [X] connect to MongoDB Database
+    - [X] connect to MongoDB Database 🍃 
     - [X] Get posts by location and hashtags 
     - [X] Follow like and comment users posts 
     - [ ] Target Audience by Machine Learning 🎯 
