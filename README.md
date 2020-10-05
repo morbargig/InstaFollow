@@ -10,7 +10,6 @@ mor bargig@mor-bargig MINGW64 /c/My Projects/Instafollow (master)
 $ py Insafollow.py
 private project 
 ```
-leaf 
 
 this code is private although I was truly love to sure it with you
 
